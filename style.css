@@ -47,3 +47,22 @@ h1 {
   padding-top: 10px;
   border: 1px solid #999999;
 }
+.main {
+    margin: 45px;
+    /* background-color: #ffcccc; */
+    background-image: linear-gradient(175deg, #ffcccc, white);
+  }
+  h2 {
+    padding: 25px;
+    font-size: 35px;
+    font-family: "Montserrat", sans-serif;
+    color: #999999;
+    border-bottom: 1px solid white;
+    width: 24%;
+  }
+  p {
+    font-size: 22px;
+    padding: 15px;
+    font-family: "Source Serif 4", sans-serif;
+  }
+  
