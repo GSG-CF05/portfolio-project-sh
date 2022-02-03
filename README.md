@@ -21,11 +21,6 @@ description about my self and what i am doing or studying. The second one is Ski
 
 BY: [Shatha k. Eqdaih](https://github.com/shathakh)
 
-## Final Result
-
-![](images/photo1.jpg)
-![](images/photo2.jpg)
-![](images/photo3.jpg)
 
 
 
