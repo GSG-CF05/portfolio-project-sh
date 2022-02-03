@@ -48,55 +48,53 @@ h1 {
   border: 1px solid #999999;
 }
 .main {
-    margin: 45px;
-    background-image: linear-gradient(175deg, #ffcccc, white);
-  }
-  h2 {
-    padding: 25px;
-    font-size: 35px;
-    font-family: "Montserrat", sans-serif;
-    color: #999999;
-    border-bottom: 1px solid white;
-    width: 24%;
-  }
-  p {
-    font-size: 22px;
-    padding: 15px;
-    font-family: "Source Serif 4", sans-serif;
-  }
-  .skills-ul {
-    margin-left: 50px;
-    font-size: 20px;
-    font-family: "Source Serif 4", sans-serif;
-  }
-  .skills-ul li {
-    padding: 5px;
-  }
-  section {
-    padding: 20px;
-  }
-  .contact-ul {
-    margin-left: 50px;
-    font-size: 20px;
-    font-family: "Source Serif 4", sans-serif;
-  }
-  .contact-ul li {
-    padding: 5px;
-  }
-  .contact-ul a {
-    text-decoration: none;
-    color: #999999;
-  }
-  .contact-ul a:hover {
-    color: #ffcccc;
-  }
-  span {
-    color: #999999;
-  }
-  .footer {
-    text-align: center;
-  }
-  
-  
-    
-  
+  margin: 45px;
+  background-image: linear-gradient(175deg, #ffcccc, white);
+}
+h2 {
+  padding: 25px;
+  font-size: 35px;
+  font-family: "Montserrat", sans-serif;
+  color: #999999;
+  border-bottom: 1px solid white;
+  width: 24%;
+}
+p {
+  font-size: 22px;
+  padding: 15px;
+  font-family: "Source Serif 4", sans-serif;
+}
+.skills-ul {
+  margin-left: 50px;
+  font-size: 20px;
+  font-family: "Source Serif 4", sans-serif;
+}
+.skills-ul li {
+  padding: 5px;
+}
+section {
+  padding: 20px;
+}
+.contact-ul {
+  margin-left: 50px;
+  font-size: 20px;
+  font-family: "Source Serif 4", sans-serif;
+}
+.contact-ul li {
+  padding: 5px;
+}
+.contact-ul a {
+  text-decoration: none;
+  color: #999999;
+}
+.contact-ul a:hover {
+  color: #ffcccc;
+}
+span {
+  color: #999999;
+}
+.footer {
+  padding: 15px;
+  text-align: center;
+  font-family: "Montserrat";
+}
