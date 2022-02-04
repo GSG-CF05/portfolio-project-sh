@@ -15,9 +15,9 @@ description about my self and what i am doing or studying. The second one is Ski
 
 
 ## How did I create it?
-*HTML5 and CSS3
-*GitHub and Git 
-*Visual Studio Code
+- one HTML5 and CSS3
+- two GitHub and Git 
+- three Visual Studio Code
 
 BY: [Shatha k. Eqdaih](https://github.com/shathakh)
 
